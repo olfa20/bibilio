@@ -1,0 +1,12 @@
+.form {
+  margin-top: 100px;
+  width: 40%;
+  height: 200px;
+  margin-left: 200px;
+}
+#yes {
+  margin-left: 20px;
+}
+#no {
+  margin-left: 20px;
+}
